@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/07pavan/leetcode_problem_solve/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/07pavan/leetcode_problem_solve/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/07pavan/leetcode_problem_solve/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/07pavan/leetcode_problem_solve/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/07pavan/leetcode_problem_solve/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/07pavan/leetcode_problem_solve/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/07pavan/leetcode_problem_solve/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
