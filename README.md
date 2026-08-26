@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/07pavan/leetcode_problem_solve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/07pavan/leetcode_problem_solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/07pavan/leetcode_problem_solve/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/07pavan/leetcode_problem_solve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/07pavan/leetcode_problem_solve/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
