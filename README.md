@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/07pavan/leetcode_problem_solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/07pavan/leetcode_problem_solve/tree/master/0238-product-of-array-except-self) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/07pavan/leetcode_problem_solve/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/07pavan/leetcode_problem_solve/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
