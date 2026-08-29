@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/07pavan/leetcode_problem_solve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/07pavan/leetcode_problem_solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/07pavan/leetcode_problem_solve/tree/master/0238-product-of-array-except-self) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/07pavan/leetcode_problem_solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/07pavan/leetcode_problem_solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/07pavan/leetcode_problem_solve/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/07pavan/leetcode_problem_solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/07pavan/leetcode_problem_solve/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/07pavan/leetcode_problem_solve/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/07pavan/leetcode_problem_solve/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
