@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/07pavan/leetcode_problem_solve/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/07pavan/leetcode_problem_solve/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/07pavan/leetcode_problem_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/07pavan/leetcode_problem_solve/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/07pavan/leetcode_problem_solve/tree/master/1652-defuse-the-bomb) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/07pavan/leetcode_problem_solve/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/07pavan/leetcode_problem_solve/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/07pavan/leetcode_problem_solve/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/07pavan/leetcode_problem_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/07pavan/leetcode_problem_solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/07pavan/leetcode_problem_solve/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/07pavan/leetcode_problem_solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/07pavan/leetcode_problem_solve/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/07pavan/leetcode_problem_solve/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Trie
